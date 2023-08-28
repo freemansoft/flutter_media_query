@@ -17,6 +17,13 @@ In general, the web is just 1:1 physical to logical.  We can set the test screen
 
  Here we can see that the 1080x2220 pixel display is treated as a 392/783 sized canvas.  This means we should size the golden test to 392x783 if we want to detect out-of-bounds drawing or layout issues.
 
+# References
+| | |
+| - | - |
+| Blog | [Better Flutter golden testing - how mobile logical sizing is different than the default golden size](https://joe.blog.freemansoft.com/2023/08/better-golden-testing-understanding.html) |
+| Blog | [Flutter golden testing - generating tester views sized to your mobile devices](https://joe.blog.freemansoft.com/2023/08/flutter-golden-testing-generating.html)
+| Video | [Flutter golden testing - taking into account the Flutter logical resolution on mobile devices](https://youtu.be/75_VfkX2XWI)
+
 # Test Flow
 
 ```mermaid
