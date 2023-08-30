@@ -21,9 +21,12 @@ In general, the web is just 1:1 physical to logical.  We can set the test screen
 | | |
 | - | - |
 | Blog | [Better Flutter golden testing - how mobile logical sizing is different than the default golden size](https://joe.blog.freemansoft.com/2023/08/better-golden-testing-understanding.html) |
-| Blog | [Flutter golden testing - generating tester views sized to your mobile devices](https://joe.blog.freemansoft.com/2023/08/flutter-golden-testing-generating.html)
-| Video | [Flutter golden testing - taking into account the Flutter logical resolution on mobile devices](https://youtu.be/75_VfkX2XWI)
-| Demonstration Code | [Flutter mediia query example with tests](https://github.com/freemansoft/flutter_media_query)
+| Blog | [Flutter golden testing - generating tester views sized to your mobile devices](https://joe.blog.freemansoft.com/2023/08/flutter-golden-testing-generating.html) |
+| | |
+| Video | [Flutter Golden testing with views sized to your mobile devices](https://youtu.be/9hBxgvLfAg8) |
+| Video | [Flutter golden testing - taking into account the Flutter logical resolution on mobile devices](https://youtu.be/75_VfkX2XWI) |
+| | |
+| Demonstration Code | [Flutter media query example with tests](https://github.com/freemansoft/flutter_media_query) |
 
 # Test Flow
 
